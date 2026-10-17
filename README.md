@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://raw.githubusercontent.com/username/livo/main/public/logo.png" width="48" height="48" alt="Livo Logo" align="center" onerror="this.style.display='none'"/> Livo Local Stack</p>
+# <p align="center">Livo Local Stack</p>
 
 <p align="center">
   <strong>The Ultra-Fast, Zero-Bloat, Fully Portable Local Web Development Environment</strong>
